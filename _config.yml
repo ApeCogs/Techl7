@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /Techl7
+exclude: ['README.md']
